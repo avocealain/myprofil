@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://avocealain.github.io/myprofile/sitemap.xml
